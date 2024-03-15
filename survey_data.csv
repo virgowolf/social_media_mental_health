@@ -1,0 +1,482 @@
+ID_number,timestamp,age,gender,relationship_status,occupation_status,org_affiliations,use_social_media,which_sm_platforms,avg_time_per_day,how_often_use_sm_without_purpose,how_often_distracted_by_sm,feel_restless_wo_sm,how_easily_distracted,bothered_by_worries,difficult_to_concentrate,compare_self_to_others,feel_about_comparisons,seek_validation,feel_depressed,interest_in_daily_activ,sleep_issues
+1,4/18/22 19:18,21,Male,In a relationship,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit",Between 2 and 3 hours,5,3,2,5,2,5,2,3,2,5,4,5
+2,4/18/22 19:19,21,Female,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit",More than 5 hours,4,3,2,4,5,4,5,1,1,5,4,5
+3,4/18/22 19:25,21,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Pinterest",Between 3 and 4 hours,3,2,1,2,5,4,3,3,1,4,2,5
+4,4/18/22 19:29,21,Female,Single,University Student,University,Yes,"Facebook, Instagram",More than 5 hours,4,2,1,3,5,3,5,1,2,4,3,2
+5,4/18/22 19:33,21,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube",Between 2 and 3 hours,3,5,4,4,5,5,3,3,3,4,4,1
+6,4/18/22 19:33,22,Female,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Discord, Pinterest, TikTok",Between 2 and 3 hours,4,4,2,3,4,3,4,4,3,3,2,4
+7,4/18/22 19:36,21,Female,Married,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, TikTok",Between 3 and 4 hours,4,3,2,2,4,3,5,3,4,5,5,3
+8,4/18/22 19:36,21,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube",More than 5 hours,5,2,3,3,3,1,1,3,1,5,5,1
+9,4/18/22 19:39,21,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube",More than 5 hours,5,2,3,3,1,1,1,3,1,5,5,1
+10,4/18/22 19:41,20,Male,Single,University Student,University,No,"Reddit, Pinterest",Less than an Hour,1,1,1,1,1,1,1,1,1,1,1,1
+11,4/18/22 19:44,24,Male,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Discord",Between 2 and 3 hours,5,5,2,4,3,5,4,2,3,5,4,5
+12,4/18/22 19:44,21,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 3 and 4 hours,4,4,2,5,3,4,2,2,3,3,4,2
+13,4/18/22 19:56,22,Female,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",Between 3 and 4 hours,3,4,2,4,4,2,4,2,1,3,1,5
+14,4/18/22 19:57,21,Female,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Reddit, Pinterest",Between 3 and 4 hours,5,3,2,1,4,4,2,3,2,3,3,3
+15,4/18/22 19:59,22,Male,Single,University Student,University,Yes,"Facebook, YouTube, Pinterest",More than 5 hours,5,5,5,5,5,5,5,5,5,5,5,5
+16,4/18/22 20:15,23,Male,In a relationship,University Student,Private,Yes,"Facebook, Instagram, YouTube, Reddit",Between 1 and 2 hours,3,4,2,3,4,4,3,2,2,3,4,2
+17,4/18/22 20:15,21,Male,Single,University Student,University,Yes,"Facebook, YouTube, Discord",Less than an Hour,2,2,1,2,4,2,1,3,1,4,1,3
+18,4/18/22 20:21,25,Male,Single,School Student,N/A,Yes,"Facebook, Instagram, YouTube, Reddit",Between 4 and 5 hours,5,5,4,4,3,3,1,4,2,2,2,2
+19,4/18/22 20:22,28,Male,Single,University Student,University,Yes,"Facebook, YouTube, Discord, Reddit",Between 1 and 2 hours,3,4,2,4,5,5,2,3,1,3,3,1
+20,4/18/22 20:28,34,Male,Divorced,Salaried Worker,Private,Yes,"Facebook, Twitter, Instagram, YouTube",Between 1 and 2 hours,2,4,3,3,4,1,1,5,3,2,2,2
+21,4/18/22 20:31,22,Male,In a relationship,University Student,"School, University",Yes,"Facebook, Instagram, YouTube, Discord, Reddit",Between 2 and 3 hours,4,2,2,3,3,2,2,2,1,2,3,2
+22,4/18/22 20:32,23,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit, TikTok",More than 5 hours,3,2,4,2,4,2,5,2,1,3,3,1
+23,4/18/22 20:33,26,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Pinterest",Between 3 and 4 hours,3,4,3,3,4,4,4,3,3,4,4,4
+24,4/18/22 20:35,23,Female,Married,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Pinterest",Between 1 and 2 hours,3,2,2,4,4,3,3,2,3,4,4,1
+25,4/18/22 20:36,23,Male,Single,University Student,N/A,Yes,"Facebook, Twitter, YouTube, Discord",Between 3 and 4 hours,3,3,5,5,5,5,4,1,3,3,5,5
+26,4/18/22 20:38,35,Female,Married,Salaried Worker,"School, University",Yes,"Facebook, YouTube",Between 3 and 4 hours,4,4,3,3,3,3,4,4,4,4,2,2
+27,4/18/22 20:38,20,Male,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Discord",Between 3 and 4 hours,4,4,3,3,3,4,2,3,3,4,3,4
+28,4/18/22 20:40,35,Male,Married,Salaried Worker,Company,Yes,"Facebook, Twitter, Instagram, YouTube",Between 2 and 3 hours,2,4,4,4,4,4,4,4,4,4,4,5
+29,4/18/22 20:42,22,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",Between 4 and 5 hours,3,4,3,4,5,4,4,3,2,4,4,1
+30,4/18/22 20:45,21,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 3 and 4 hours,4,4,5,5,5,4,4,4,3,5,4,1
+31,4/18/22 20:49,22,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Discord",Between 3 and 4 hours,4,4,3,3,5,4,5,2,3,5,4,3
+32,4/18/22 20:50,35,Male,Married,Salaried Worker,Private,Yes,"Facebook, YouTube, Pinterest",Between 2 and 3 hours,3,4,3,3,3,2,2,2,2,3,4,2
+33,4/18/22 20:52,24,Male,Single,Salaried Worker,Private,Yes,"Facebook, Instagram, YouTube, TikTok",Between 2 and 3 hours,3,3,3,3,3,4,2,3,3,2,3,3
+34,4/18/22 20:53,18,Female,Single,School Student,"School, Private",Yes,"Facebook, Instagram, YouTube, Discord, Pinterest",Between 2 and 3 hours,4,3,3,3,4,3,3,2,4,3,3,2
+35,4/18/22 20:54,19,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Discord",Between 3 and 4 hours,5,5,5,5,5,5,2,3,1,5,4,4
+36,4/18/22 20:55,21,Nonbinary ,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Discord",More than 5 hours,3,4,5,4,4,5,1,3,1,4,2,1
+37,4/18/22 20:55,21,Male,Single,University Student,University,Yes,"Facebook, Instagram",Between 3 and 4 hours,5,3,4,3,2,3,5,3,4,3,3,1
+38,4/18/22 21:02,23,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",Less than an Hour,2,3,1,1,1,3,1,3,1,5,4,5
+39,4/18/22 21:22,22,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Pinterest",Between 3 and 4 hours,4,5,5,4,4,4,2,3,3,2,2,5
+40,4/18/22 21:24,22,Male,Single,University Student,"University, Company",Yes,"Facebook, YouTube, Discord",Between 2 and 3 hours,4,4,2,4,3,5,1,3,1,1,3,4
+41,4/18/22 21:32,21,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat",Between 1 and 2 hours,1,1,1,1,1,1,2,1,2,3,3,1
+42,4/18/22 21:42,21,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat",Between 3 and 4 hours,3,5,2,3,3,3,3,4,2,4,2,2
+43,4/18/22 21:48,56,Female,Married,Retired,N/A,Yes,YouTube,Between 1 and 2 hours,1,1,1,1,3,1,1,3,1,2,3,1
+44,4/18/22 21:48,19,Female,Single,School Student,"School, University",Yes,"Facebook, Instagram, YouTube, Snapchat, Pinterest",More than 5 hours,3,2,4,4,5,4,5,2,1,5,4,2
+45,4/18/22 21:49,24,Male,Single,Salaried Worker,Private,Yes,"Twitter, Discord, Reddit",More than 5 hours,5,1,1,3,3,3,1,3,3,3,3,3
+46,4/18/22 21:50,22,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube",More than 5 hours,4,5,4,4,5,2,3,3,3,3,2,3
+47,4/18/22 21:55,65,Male,Married,Retired,Goverment,Yes,"Facebook, YouTube",Between 3 and 4 hours,5,3,2,2,2,1,3,4,3,1,3,2
+48,4/18/22 22:00,17,Female,Single,School Student,N/A,Yes,"Instagram, YouTube, Reddit, Pinterest",Between 3 and 4 hours,4,3,1,3,5,3,4,2,1,3,5,1
+49,4/18/22 22:04,40,Male,Married,Salaried Worker,"Company, Private",Yes,"Twitter, YouTube, Reddit",Between 2 and 3 hours,3,3,3,3,2,3,2,3,1,2,2,1
+50,4/18/22 22:07,33,Female,Single,Salaried Worker,School,Yes,"Facebook, YouTube",Between 3 and 4 hours,3,3,1,3,2,1,2,2,1,1,1,1
+51,4/18/22 22:11,22,Female,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 3 and 4 hours,4,4,3,4,3,2,1,3,3,3,4,4
+52,4/18/22 22:20,24,Male,Single,Salaried Worker,Company,Yes,"YouTube, Snapchat, Discord",More than 5 hours,5,5,5,5,4,5,2,2,1,3,5,1
+53,4/18/22 22:23,26,Male,Single,University Student,University,Yes,Facebook,Less than an Hour,3,5,3,5,5,5,5,5,5,5,5,5
+54,4/18/22 22:30,55,Male,Married,Salaried Worker,Private,Yes,"Discord, Reddit",Between 1 and 2 hours,3,2,1,3,2,1,1,3,1,1,2,1
+55,4/18/22 22:35,26,Male,In a relationship,Salaried Worker,Company,No,"YouTube, Discord, Reddit",Between 1 and 2 hours,4,1,1,2,2,1,1,3,1,1,3,2
+56,4/18/22 22:39,27,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Reddit, TikTok",More than 5 hours,2,5,5,4,4,5,3,3,4,5,2,3
+57,4/18/22 22:42,22,Male,Married,University Student,"School, University",Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit",More than 5 hours,3,2,1,2,4,2,1,3,1,3,4,2
+58,4/18/22 22:43,19,Female,Single,School Student,School,Yes,"Facebook, Instagram, YouTube, Discord, Pinterest",Between 2 and 3 hours,3,2,2,2,4,3,3,3,2,4,4,5
+59,4/18/22 22:51,22,Female,Married,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 2 and 3 hours,4,5,2,4,4,4,3,3,4,5,4,2
+60,4/18/22 23:00,20,Female,Married,University Student,University,Yes,"Instagram, Reddit",Between 1 and 2 hours,1,1,1,2,2,2,1,3,1,1,3,5
+61,4/18/22 23:05,25,Female,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Discord",More than 5 hours,4,3,3,4,4,4,2,2,2,4,3,4
+62,4/18/22 23:11,25,Female,Married,University Student,University,Yes,"YouTube, Reddit",Between 1 and 2 hours,2,2,1,3,5,4,5,2,4,4,5,4
+63,4/18/22 23:12,18,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Pinterest",More than 5 hours,4,4,3,5,4,3,1,3,1,5,4,5
+64,4/18/22 23:19,25,Male,Single,Salaried Worker,N/A,Yes,Reddit,Between 1 and 2 hours,3,1,1,3,2,4,1,3,1,5,1,5
+65,4/18/22 23:23,19,Female,Single,University Student,N/A,Yes,"Discord, Reddit",Between 2 and 3 hours,2,3,1,5,3,5,1,3,1,1,5,4
+66,4/18/22 23:38,24,Male,In a relationship,School Student,University,Yes,"YouTube, Discord, Reddit",Between 1 and 2 hours,3,2,4,3,2,2,1,3,2,2,4,4
+67,4/18/22 23:45,21,Male,In a relationship,University Student,University,Yes,"Facebook, Instagram, Reddit, TikTok",Between 3 and 4 hours,5,5,5,5,5,5,5,2,4,4,4,1
+68,4/19/22 0:10,18,Non-binary,Single,School Student,School,Yes,"Twitter, Instagram, YouTube, Reddit, TikTok",Between 2 and 3 hours,2,1,2,3,5,3,2,3,2,4,2,4
+69,4/19/22 0:11,14,Male,Single,School Student,School,Yes,Reddit,Between 1 and 2 hours,4,2,2,3,5,3,3,4,2,4,4,4
+70,4/19/22 0:15,25,Male,Single,University Student,University,Yes,"YouTube, Snapchat, Discord, Reddit",Between 3 and 4 hours,4,4,3,3,3,2,3,2,2,3,4,4
+71,4/19/22 0:18,33,Male,Married,Salaried Worker,Private,Yes,"Instagram, YouTube",Between 3 and 4 hours,2,4,3,2,2,2,1,1,1,1,2,2
+72,4/19/22 0:24,23,Male,Single,School Student,"University, Company",Yes,"Instagram, YouTube, Discord, Reddit",Between 2 and 3 hours,5,5,5,5,5,5,5,5,5,5,5,5
+73,4/19/22 0:28,14,Female,Single,School Student,School,Yes,"Twitter, Instagram, YouTube, Snapchat, Reddit, Pinterest, TikTok",More than 5 hours,4,4,2,2,4,2,4,2,4,4,4,5
+74,4/19/22 0:32,38,Male,Married,Salaried Worker,University,Yes,"Twitter, YouTube, Discord, Reddit",Between 1 and 2 hours,5,2,1,3,2,1,1,3,1,2,1,2
+75,4/19/22 1:16,23,Female,Single,Retired,N/A,Yes,"Facebook, YouTube, Discord, Reddit",Between 4 and 5 hours,4,4,3,3,4,5,3,2,4,5,5,4
+76,4/19/22 1:41,26,Male,Single,Salaried Worker,Company,Yes,Reddit,Less than an Hour,2,1,1,3,2,1,1,1,1,2,3,4
+77,4/19/22 1:59,24,Male,Single,University Student,University,Yes,"Facebook, YouTube, Reddit",Between 2 and 3 hours,4,5,3,4,3,2,2,3,4,5,4,2
+78,4/19/22 2:06,21,Female,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, TikTok",Between 3 and 4 hours,4,3,4,4,5,4,5,1,2,4,4,2
+79,4/19/22 2:18,18,Female,Single,University Student,"University, Goverment, Private",Yes,"Facebook, YouTube, Reddit",Between 3 and 4 hours,4,3,3,3,5,5,4,3,1,5,5,5
+80,4/19/22 2:27,28,Male,Single,University Student,University,Yes,"Facebook, YouTube, Discord, Reddit",Between 3 and 4 hours,2,5,4,3,5,5,5,2,1,5,3,5
+81,4/19/22 2:58,22,Male,Single,University Student,N/A,Yes,"Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",Between 2 and 3 hours,4,4,4,5,5,5,3,3,1,4,4,5
+82,4/19/22 3:40,21,Male,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",More than 5 hours,4,4,2,5,4,4,3,3,2,1,5,4
+83,4/19/22 4:53,21,Male,Single,University Student,University,Yes,"Instagram, YouTube, Snapchat, Discord, Reddit",More than 5 hours,5,5,3,5,4,5,2,3,2,4,5,2
+84,4/19/22 5:20,21,Female,In a relationship,University Student,"University, Company, Private",Yes,"Facebook, Instagram, YouTube, Pinterest",Between 4 and 5 hours,3,5,5,5,3,5,4,4,3,4,5,5
+85,4/19/22 6:31,17,Male,Single,School Student,School,Yes,"Facebook, Twitter, Instagram, YouTube, Reddit",Between 2 and 3 hours,4,4,3,4,5,4,3,2,4,2,4,2
+86,4/19/22 7:10,24,NB,Single,Salaried Worker,N/A,Yes,"YouTube, Reddit",Between 2 and 3 hours,4,3,2,3,5,2,3,2,2,4,3,1
+87,4/19/22 8:27,22,Female,In a relationship,University Student,University,Yes,"Facebook, YouTube",Between 1 and 2 hours,3,4,3,4,1,3,1,2,2,2,4,4
+88,4/19/22 8:36,32,Female,Married,Salaried Worker,Company,Yes,Reddit,Between 1 and 2 hours,4,3,2,5,2,5,2,4,1,1,2,1
+89,4/19/22 8:38,22,Male,Single,University Student,University,Yes,"Facebook, YouTube",Between 2 and 3 hours,5,4,2,2,1,3,1,3,5,3,2,2
+90,4/19/22 9:17,20,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Pinterest",Between 2 and 3 hours,4,5,4,5,5,5,4,2,4,5,5,4
+91,4/19/22 9:18,22,Male,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat",Between 2 and 3 hours,3,5,2,4,4,4,2,3,2,4,4,3
+92,4/19/22 9:53,28,Female,Single,University Student,University,Yes,"Facebook, YouTube",Between 3 and 4 hours,4,5,4,5,5,5,2,3,2,4,5,2
+93,4/19/22 9:57,22,Female,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat",More than 5 hours,4,3,3,4,5,4,1,3,2,4,2,1
+94,4/19/22 10:24,17,unsure ,Single,School Student,School,Yes,"Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, TikTok",Between 4 and 5 hours,4,4,3,4,2,4,3,2,2,3,3,5
+95,4/19/22 10:25,30,Female,Single,Salaried Worker,University,Yes,Instagram,Between 4 and 5 hours,4,5,3,2,4,4,3,3,3,4,4,4
+96,4/19/22 10:59,22,Male,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord",More than 5 hours,5,5,1,3,2,5,2,1,1,3,1,5
+97,4/19/22 13:52,14,Male,Single,School Student,School,Yes,"Instagram, YouTube, Discord",Between 4 and 5 hours,5,5,2,4,2,3,1,3,1,1,3,5
+98,4/19/22 14:08,20,Male,Single,School Student,N/A,Yes,"YouTube, Reddit",More than 5 hours,4,2,1,2,1,1,2,2,1,4,3,2
+99,4/19/22 14:21,22,Female,Single,School Student,University,Yes,"Facebook, Instagram, YouTube, Pinterest",More than 5 hours,4,4,4,4,4,5,5,3,4,5,5,3
+100,4/19/22 14:45,16,Male,Single,School Student,School,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",Between 4 and 5 hours,4,5,2,5,3,4,3,1,4,2,1,3
+101,4/19/22 16:36,22,Female,In a relationship,University Student,"University, Company",Yes,"Facebook, Twitter, Instagram, YouTube",Between 2 and 3 hours,3,4,3,4,4,3,2,2,3,3,2,3
+102,4/19/22 19:13,22,Male,In a relationship,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",Between 1 and 2 hours,5,4,3,4,4,2,1,1,1,5,3,5
+103,4/19/22 19:30,22,Male,Single,University Student,University,Yes,Instagram,Between 3 and 4 hours,3,4,3,3,4,3,2,3,3,4,3,3
+104,4/19/22 19:31,22,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Pinterest",Between 1 and 2 hours,4,3,4,3,5,5,3,3,4,3,5,5
+105,4/19/22 19:39,21,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Pinterest",Between 4 and 5 hours,2,3,4,3,3,3,3,4,4,1,3,3
+106,4/19/22 19:40,23,Female,Single,University Student,University,Yes,"Facebook, YouTube",Between 4 and 5 hours,2,3,4,3,3,3,3,4,3,2,4,5
+107,4/19/22 20:10,23,Female,Single,University Student,University,Yes,"Facebook, Instagram, TikTok",Between 2 and 3 hours,3,2,2,4,2,2,1,3,3,3,4,5
+108,4/19/22 20:13,48,Female,Married,Salaried Worker,School,Yes,"Facebook, YouTube",Between 1 and 2 hours,1,1,1,1,3,2,1,3,2,1,1,1
+109,4/19/22 20:16,21,Female,In a relationship,University Student,N/A,Yes,"Facebook, Instagram, YouTube, Snapchat",Between 3 and 4 hours,3,2,1,3,2,3,2,1,3,2,2,5
+110,4/19/22 20:20,47,Female,Married,Salaried Worker,Goverment,Yes,"Facebook, Instagram, YouTube, Pinterest",Between 2 and 3 hours,4,3,3,3,2,2,2,3,3,3,3,3
+111,4/19/22 20:24,48,Male,Married,Salaried Worker,Private,Yes,"Facebook, Instagram, YouTube",Between 2 and 3 hours,3,3,4,4,4,4,4,3,3,2,3,3
+112,4/19/22 20:31,26,Female,Single,Salaried Worker,Private,Yes,"Facebook, Instagram, YouTube, Pinterest",More than 5 hours,4,5,4,4,5,3,5,4,3,4,2,3
+113,4/19/22 20:39,47,Male,Married,Salaried Worker,Company,Yes,"Facebook, YouTube",Between 2 and 3 hours,4,3,4,4,3,3,2,3,1,2,2,4
+114,4/19/22 20:42,47,Male,Married,Salaried Worker,"University, Private",Yes,"Facebook, Instagram, Snapchat",Between 1 and 2 hours,2,4,3,3,3,3,3,3,2,2,3,4
+115,4/19/22 20:45,27,Female,Single,Salaried Worker,School,Yes,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,2,5,4,4,3,2,5,1,4,4,4,1
+116,4/19/22 20:52,34,Female,Married,Salaried Worker,School,Yes,Facebook,More than 5 hours,5,5,4,5,3,1,3,3,3,2,5,4
+117,4/19/22 21:02,20,Female,Single,University Student,University,Yes,"Facebook, Instagram",Between 2 and 3 hours,5,5,5,5,5,5,3,1,1,3,3,5
+118,4/19/22 21:07,22,Female,Single,University Student,University,Yes,Facebook,More than 5 hours,5,4,5,4,5,4,3,3,4,3,3,4
+119,4/19/22 21:10,23,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",More than 5 hours,5,5,5,5,5,4,5,5,4,5,4,5
+120,4/19/22 21:10,20,Male,Single,University Student,University,Yes,"Facebook, Instagram, YouTube",Between 4 and 5 hours,4,5,3,4,3,5,2,3,3,4,4,5
+121,4/19/22 21:12,48,Female,Married,Salaried Worker,Private,Yes,"Facebook, Instagram",Less than an Hour,2,4,1,3,2,1,1,3,2,1,1,1
+122,4/19/22 21:12,20,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, TikTok",Between 3 and 4 hours,4,3,1,2,4,2,4,2,1,3,3,3
+123,4/19/22 21:15,20,Female,Single,University Student,University,Yes,"Facebook, YouTube, Snapchat, Pinterest",Between 4 and 5 hours,4,5,5,5,2,5,2,3,1,5,4,3
+124,4/19/22 21:15,22,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,4,5,4,5,5,5,3,1,1,4,2,2
+125,4/19/22 21:26,22,Female,Single,University Student,"University, N/A",Yes,Instagram,More than 5 hours,5,5,3,3,2,3,4,5,4,1,4,1
+126,4/19/22 21:27,20,Female,Single,University Student,Goverment,Yes,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,4,4,3,5,4,3,2,2,2,4,5,3
+127,4/19/22 21:32,24,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord",Between 2 and 3 hours,1,1,3,3,4,4,3,3,2,4,4,4
+128,4/19/22 21:38,23,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",More than 5 hours,3,2,4,3,5,3,5,1,4,4,2,5
+129,4/19/22 21:47,20,Female,Single,University Student,N/A,Yes,"Facebook, Instagram, YouTube",Between 3 and 4 hours,5,2,1,2,1,1,5,1,1,4,5,3
+130,4/19/22 21:48,16,Male,Single,School Student,School,Yes,"Instagram, YouTube, Snapchat, Pinterest",Between 2 and 3 hours,3,1,2,3,3,2,2,4,1,3,3,2
+131,4/19/22 21:50,50,Female,Single,Salaried Worker,School,Yes,"Facebook, Instagram, YouTube, Discord, Pinterest",Between 2 and 3 hours,2,1,1,3,3,2,1,4,3,1,1,4
+132,4/19/22 21:51,47,Male,Married,Salaried Worker,Private,Yes,"Facebook, YouTube",Between 1 and 2 hours,4,2,2,3,2,1,4,2,3,3,2,2
+133,4/19/22 21:55,24,Male,Single,Salaried Worker,Private,Yes,"Facebook, Twitter, Instagram, YouTube",Between 2 and 3 hours,3,3,2,3,4,3,2,4,2,3,1,4
+134,4/19/22 21:57,38,Female,Married,Salaried Worker,School,Yes,Facebook,Less than an Hour,3,2,3,2,2,1,3,1,1,2,1,1
+135,4/19/22 22:04,50,Male,Divorced,Salaried Worker,Private,No,"Instagram, YouTube",Between 1 and 2 hours,2,1,1,2,2,2,1,4,1,2,2,1
+136,4/19/22 22:09,49,Male,Married,Retired,Private,Yes,"Facebook, Twitter, Instagram, YouTube, Pinterest",Between 4 and 5 hours,5,5,3,3,4,3,3,3,3,4,4,5
+137,4/19/22 22:19,47,Female,Married,Salaried Worker,Goverment,Yes,"Facebook, YouTube, Pinterest",Between 2 and 3 hours,3,3,3,3,3,2,1,3,1,1,1,4
+138,4/19/22 22:22,48,Female,Married,Salaried Worker,"Company, Private",Yes,"Facebook, Twitter, Instagram, YouTube, Pinterest",Between 2 and 3 hours,3,3,1,3,1,1,1,1,1,1,1,1
+139,4/19/22 22:23,51,Male,Married,Salaried Worker,Private,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Pinterest",Between 1 and 2 hours,4,3,2,3,3,4,3,3,3,3,3,3
+140,4/19/22 22:31,50,Male,Married,Salaried Worker,Company,Yes,"Facebook, Twitter, Instagram, YouTube",Between 3 and 4 hours,4,3,4,5,5,4,3,4,3,4,4,2
+141,4/19/22 22:39,47,Female,Married,Salaried Worker,Private,Yes,"Facebook, Twitter, Instagram, YouTube, Pinterest",Between 3 and 4 hours,3,2,2,2,2,2,3,4,1,1,2,1
+142,4/19/22 22:42,27,Female,Married,Salaried Worker,Private,Yes,"Facebook, Instagram, YouTube",Between 4 and 5 hours,4,5,2,5,5,5,5,2,3,3,5,4
+143,4/19/22 22:44,40,Female,Single,Salaried Worker,Private,Yes,"Facebook, Twitter, Instagram, YouTube",Between 1 and 2 hours,4,2,1,2,4,3,3,3,3,4,3,1
+144,4/19/22 22:45,46,Male,Divorced,Salaried Worker,Private,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat",Less than an Hour,3,1,1,1,2,1,1,3,5,2,2,2
+145,4/19/22 22:49,21,Female,Single,University Student,"University, Private",Yes,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 4 and 5 hours,4,3,4,3,3,2,5,2,3,5,5,5
+146,4/19/22 22:50,47,Female,Married,Salaried Worker,Private,Yes,Facebook,Between 1 and 2 hours,4,4,3,3,2,2,4,2,3,3,3,3
+147,4/19/22 23:13,20,Female,In a relationship,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest",More than 5 hours,4,4,3,4,4,4,5,1,4,4,3,4
+148,4/19/22 23:23,47,Female,Married,Salaried Worker,University,Yes,"Facebook, Twitter, Instagram, YouTube",Between 1 and 2 hours,3,4,3,4,5,4,2,2,1,2,3,2
+149,4/19/22 23:28,48,Male,Married,Salaried Worker,Private,Yes,"Facebook, Instagram, YouTube",Between 3 and 4 hours,3,3,3,3,2,2,3,3,3,2,3,2
+150,4/19/22 23:28,49,Male,Married,Salaried Worker,Company,Yes,"Facebook, YouTube",Between 4 and 5 hours,4,3,2,2,2,2,2,4,2,2,2,4
+151,4/19/22 23:38,21,Male,In a relationship,University Student,"University, Private",Yes,"Facebook, YouTube, Discord",Between 3 and 4 hours,3,2,1,1,2,2,2,4,3,2,2,2
+152,4/19/22 23:43,32,Female,Married,Salaried Worker,School,Yes,"Facebook, Instagram, YouTube, Discord, Pinterest",Between 4 and 5 hours,5,2,4,3,2,1,1,5,1,1,2,5
+153,4/19/22 23:51,47,Female,Married,Salaried Worker,University,Yes,"Twitter, Instagram, YouTube",Between 2 and 3 hours,3,1,2,3,2,2,3,3,2,2,2,3
+154,4/19/22 23:53,50,Male,Married,Salaried Worker,Private,Yes,"Facebook, Twitter, YouTube",Between 1 and 2 hours,1,1,2,3,2,2,1,1,3,3,2,2
+155,4/20/22 0:00,48,Male,Divorced,Salaried Worker,Private,Yes,"Facebook, Twitter, Instagram, YouTube",Less than an Hour,5,1,1,2,4,2,1,3,3,4,2,5
+156,4/20/22 0:07,21,Female,In a relationship,University Student,"University, Company, Private",Yes,"Facebook, Instagram, YouTube, Pinterest",Between 3 and 4 hours,2,2,1,5,4,5,3,3,2,3,5,4
+157,4/20/22 0:24,47,Male,Married,Salaried Worker,Company,Yes,Twitter,Less than an Hour,1,1,2,5,3,4,2,3,1,2,4,4
+158,4/20/22 0:25,36,Female,Married,Salaried Worker,School,Yes,YouTube,Between 2 and 3 hours,3,2,1,2,4,4,1,1,1,1,1,4
+159,4/20/22 0:50,37,Female,Married,Retired,Private,Yes,"Facebook, Instagram, YouTube",Between 1 and 2 hours,3,1,2,2,1,3,1,2,2,4,2,4
+160,4/20/22 1:10,19,Female,In a relationship,School Student,School,Yes,Facebook,Between 4 and 5 hours,5,4,4,3,5,4,2,5,4,4,5,5
+161,4/20/22 1:48,30,Male,In a relationship,Salaried Worker,Company,Yes,"Facebook, Instagram, YouTube",Between 1 and 2 hours,4,2,1,2,2,1,4,2,2,2,2,5
+162,4/20/22 2:03,48,Male,Married,Salaried Worker,Private,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Less than an Hour,3,1,1,1,1,1,5,3,2,1,5,2
+163,4/20/22 2:07,48,Female,Married,Retired,N/A,Yes,"Facebook, Instagram, YouTube, Pinterest, TikTok",More than 5 hours,4,5,5,5,4,5,3,3,2,3,5,4
+164,4/20/22 3:54,48,Male,Married,Salaried Worker,Company,Yes,"Twitter, YouTube",Between 3 and 4 hours,3,2,3,3,4,3,2,3,2,3,3,4
+165,4/20/22 4:20,47,Male,Married,Salaried Worker,"University, Company",Yes,"Twitter, Instagram, YouTube, Reddit, TikTok",Between 2 and 3 hours,3,2,3,5,5,5,2,5,2,3,2,4
+166,4/20/22 4:42,47,Female,Married,Salaried Worker,Company,Yes,"Facebook, Twitter",Less than an Hour,2,2,2,3,2,2,4,3,2,2,2,2
+167,4/20/22 5:54,48,Male,Married,Salaried Worker,N/A,Yes,"Facebook, YouTube, Pinterest",Less than an Hour,5,1,1,2,2,1,1,1,1,2,1,4
+168,4/20/22 6:15,21,Male,Single,University Student,"School, University, Private",Yes,"Facebook, Twitter, Instagram, YouTube, Pinterest",Between 2 and 3 hours,2,4,2,3,2,1,3,5,3,2,1,4
+169,4/20/22 6:28,48,Male,Married,Salaried Worker,Private,Yes,"Twitter, YouTube",Between 1 and 2 hours,2,2,1,2,1,1,2,3,1,1,2,2
+170,4/20/22 7:20,21,Male,In a relationship,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord",Less than an Hour,2,3,2,4,3,3,2,3,1,2,2,1
+171,4/20/22 7:35,20,Male,Single,University Student,University,Yes,"Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, TikTok",More than 5 hours,5,5,5,4,2,4,3,3,1,3,3,4
+172,4/20/22 8:37,20,Female,Single,University Student,University,Yes,"Facebook, YouTube",Between 3 and 4 hours,4,5,4,4,5,5,5,2,2,3,4,4
+173,4/20/22 10:51,20,Male,Single,University Student,University,Yes,"Facebook, Instagram, YouTube",Between 1 and 2 hours,5,5,2,3,4,5,3,2,4,5,5,5
+174,4/20/22 11:25,21,Female,Single,University Student,N/A,Yes,"Facebook, Instagram, YouTube, Snapchat",Between 1 and 2 hours,4,4,4,4,4,2,4,3,4,3,3,1
+175,4/20/22 11:43,20,Female,In a relationship,University Student,University,Yes,"Instagram, YouTube, Pinterest",Between 4 and 5 hours,4,3,5,5,4,4,5,4,3,4,4,5
+176,4/20/22 12:16,47,Male,Married,Salaried Worker,Company,Yes,"Twitter, Instagram, YouTube, Reddit, TikTok",Between 2 and 3 hours,4,3,3,2,4,3,1,2,1,1,2,1
+177,4/20/22 13:24,35,Female,Divorced,Salaried Worker,School,Yes,"Facebook, YouTube",Less than an Hour,3,2,1,1,1,1,1,3,4,1,1,1
+178,4/20/22 13:24,23,Female,Single,University Student,University,Yes,Pinterest,Between 3 and 4 hours,5,3,3,4,3,5,1,3,3,4,3,5
+179,4/20/22 13:43,21,Female,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Pinterest",Between 4 and 5 hours,3,5,4,5,5,4,3,2,1,3,5,5
+180,4/20/22 14:41,21,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Pinterest",Between 2 and 3 hours,3,2,5,2,4,1,3,2,4,4,2,1
+181,4/20/22 16:11,37,Female,Married,Salaried Worker,University,Yes,"Facebook, YouTube",Between 1 and 2 hours,5,4,4,3,5,2,5,2,2,4,4,5
+182,4/20/22 16:37,48,Male,Married,Salaried Worker,Company,Yes,"Facebook, Twitter, Instagram, YouTube",Between 1 and 2 hours,4,2,2,3,2,2,2,3,3,3,3,4
+183,4/20/22 16:44,47,Male,Married,Salaried Worker,Goverment,Yes,"Facebook, YouTube, TikTok",Less than an Hour,3,1,1,2,4,2,3,3,2,1,2,3
+184,4/20/22 17:44,25,Female,Married,Salaried Worker,Company,Yes,"Facebook, Twitter, Instagram, YouTube, Reddit, Pinterest, TikTok",Between 4 and 5 hours,3,4,5,4,5,4,2,4,4,5,3,2
+185,4/20/22 18:14,22,Female,In a relationship,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",More than 5 hours,5,5,4,5,4,3,2,3,3,3,4,4
+186,4/20/22 19:24,45,Male,Married,Salaried Worker,Private,Yes,"Facebook, YouTube",Between 2 and 3 hours,3,2,3,3,3,3,3,2,2,2,2,2
+187,4/20/22 19:28,47,Male,Married,Salaried Worker,"Company, Private",Yes,"Instagram, YouTube",Between 1 and 2 hours,4,3,2,4,3,2,2,3,3,3,2,1
+188,4/20/22 21:11,47,Female,Single,Salaried Worker,Company,Yes,"Facebook, Twitter, Instagram, YouTube, Pinterest",Between 4 and 5 hours,4,5,2,3,3,1,3,3,1,3,3,1
+189,4/20/22 21:18,24,Female,Married,University Student,Private,Yes,"Facebook, Instagram, Pinterest",More than 5 hours,5,3,4,3,4,5,3,3,3,4,3,4
+190,4/20/22 22:01,21,Female,In a relationship,University Student,University,Yes,Instagram,Between 2 and 3 hours,5,5,5,5,1,5,2,5,5,2,5,5
+191,4/20/22 22:07,22,Female,Single,University Student,University,Yes,"Facebook, YouTube, Discord, Reddit, Pinterest",Between 2 and 3 hours,3,2,2,2,2,2,1,3,3,4,2,1
+192,4/20/22 22:17,19,Female,Single,School Student,School,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",Between 2 and 3 hours,3,4,3,3,3,3,3,5,3,4,3,1
+193,4/20/22 22:37,21,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat",Between 4 and 5 hours,3,3,2,4,2,4,3,2,1,4,4,4
+194,4/20/22 22:50,22,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,5,3,3,3,5,3,2,3,4,5,3,4
+195,4/20/22 22:53,20,Male,Single,University Student,N/A,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",Between 3 and 4 hours,4,5,4,4,5,4,1,3,4,4,5,5
+196,4/20/22 23:07,42,Female,Married,Salaried Worker,School,Yes,"Facebook, Instagram, YouTube, Discord, Pinterest",Between 2 and 3 hours,3,1,1,1,1,1,1,3,1,1,3,1
+197,4/20/22 23:15,35,Female,Married,Salaried Worker,School,Yes,Facebook,Between 2 and 3 hours,5,3,2,2,1,3,2,4,1,3,2,2
+198,4/20/22 23:32,38,Male,Married,Salaried Worker,University,Yes,"Facebook, Twitter, YouTube, Discord, Reddit",Between 4 and 5 hours,3,3,3,2,3,2,3,4,3,2,2,2
+199,4/20/22 23:45,17,Male,Single,School Student,School,Yes,"Facebook, Instagram, YouTube",Less than an Hour,2,2,2,2,2,1,1,2,1,1,1,2
+200,4/20/22 23:51,32,Male,Married,Salaried Worker,"Company, Private",Yes,"Facebook, YouTube, Discord, Reddit",Between 1 and 2 hours,3,1,3,2,2,1,1,3,1,1,2,1
+201,4/21/22 0:36,21,Female,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord",Between 1 and 2 hours,3,3,2,5,4,5,4,2,2,2,3,2
+202,4/21/22 0:49,22,Male,In a relationship,University Student,"University, Private",Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit",Between 3 and 4 hours,4,2,2,2,4,3,2,4,2,3,2,5
+203,4/21/22 0:59,27,Female,Married,University Student,University,Yes,"Facebook, Instagram, YouTube",More than 5 hours,5,5,3,3,3,3,1,3,1,3,3,4
+204,4/21/22 1:33,21,Male,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Discord, Reddit, TikTok",Between 3 and 4 hours,4,5,3,5,5,5,5,2,4,3,5,3
+205,4/21/22 1:39,27,Male,Married,Salaried Worker,"University, Company",Yes,"Facebook, Discord, Reddit",More than 5 hours,5,5,5,5,5,5,1,3,1,5,5,5
+206,4/21/22 1:44,20,Male,Single,School Student,School,Yes,"Instagram, Discord, Reddit, Pinterest, TikTok",Between 2 and 3 hours,3,2,3,2,3,2,3,2,3,2,1,4
+207,4/21/22 2:29,27,Female,Married,Salaried Worker,Private,Yes,"Facebook, Instagram, YouTube",Between 3 and 4 hours,4,4,4,5,4,3,2,2,1,1,3,2
+208,4/21/22 3:27,24,Male,Single,University Student,"University, Company",Yes,"Facebook, Instagram, YouTube, Discord",Between 3 and 4 hours,5,5,5,5,1,5,5,4,1,5,5,4
+209,4/21/22 4:54,26,Female,Single,Salaried Worker,Private,Yes,"Facebook, Instagram, YouTube, Snapchat, Pinterest",Between 2 and 3 hours,3,2,1,1,1,1,1,1,1,1,1,1
+210,4/21/22 7:09,20,Female,Single,University Student,University,Yes,"Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 3 and 4 hours,2,1,1,2,5,3,5,4,3,4,3,4
+211,4/21/22 10:12,31,Male,Single,Salaried Worker,School,Yes,"Facebook, Instagram, YouTube, Discord",Between 2 and 3 hours,3,3,3,3,4,3,4,4,4,3,3,2
+212,4/21/22 10:40,21,Male,Single,University Student,University,Yes,"YouTube, Discord, Reddit",More than 5 hours,5,1,1,1,1,1,1,3,1,1,1,1
+213,4/21/22 13:23,34,Male,Married,Salaried Worker,Private,Yes,"Facebook, YouTube, TikTok",More than 5 hours,5,3,2,3,3,4,4,4,5,5,5,5
+214,4/21/22 13:36,22,Male,Single,University Student,University,Yes,"Facebook, YouTube, Snapchat",Less than an Hour,1,1,1,1,1,1,1,1,1,1,1,1
+215,4/21/22 13:44,20,Female,In a relationship,University Student,N/A,Yes,Instagram,More than 5 hours,3,3,1,3,5,3,2,3,5,4,5,1
+216,4/21/22 15:26,23,Male,In a relationship,University Student,"University, Company",Yes,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit",Between 4 and 5 hours,4,2,1,1,3,1,1,3,1,3,2,1
+217,4/21/22 15:57,48,Male,Married,Salaried Worker,Private,Yes,"Facebook, YouTube",Less than an Hour,1,1,1,1,1,1,5,5,3,1,1,1
+218,4/21/22 17:47,37,Male,Married,Salaried Worker,Private,Yes,"Facebook, YouTube",Between 1 and 2 hours,4,4,1,3,4,4,4,4,3,2,3,2
+219,4/21/22 19:19,22,Male,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat",Between 1 and 2 hours,3,3,2,3,4,4,4,4,3,5,4,4
+220,4/21/22 19:35,50,Male,Single,Salaried Worker,N/A,Yes,Facebook,Between 1 and 2 hours,3,2,3,3,3,5,4,5,5,2,4,3
+221,4/21/22 20:26,21,Female,In a relationship,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat",More than 5 hours,4,4,4,5,5,5,4,2,3,3,4,4
+222,4/21/22 20:31,23,Female,Single,University Student,"University, Goverment",Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest",Between 2 and 3 hours,4,4,1,3,2,2,1,2,1,2,4,1
+223,4/21/22 20:47,21,Female,Single,University Student,University,Yes,"Facebook, YouTube",Between 1 and 2 hours,4,3,1,3,4,3,5,2,3,3,4,3
+224,4/21/22 22:29,22,Female,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest",Between 3 and 4 hours,3,3,3,3,3,2,2,3,3,3,3,3
+225,4/21/22 23:02,22,Female,In a relationship,University Student,University,Yes,Facebook,More than 5 hours,3,1,4,4,3,4,3,4,3,4,4,3
+226,4/21/22 23:02,22,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, TikTok",More than 5 hours,2,5,3,3,3,4,5,3,3,2,4,3
+227,4/21/22 23:11,19,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest",Between 3 and 4 hours,5,4,5,3,5,4,5,1,5,4,4,3
+228,4/22/22 0:24,23,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube",Between 2 and 3 hours,5,5,3,5,3,5,1,3,2,2,2,5
+229,4/22/22 2:35,46,Male,Married,Salaried Worker,"Company, Private",Yes,"Facebook, YouTube",Less than an Hour,2,1,1,1,1,1,1,2,1,1,3,4
+230,4/22/22 8:35,21,Male,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube",More than 5 hours,4,5,3,4,4,4,3,3,4,4,4,5
+231,4/22/22 11:56,24,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Discord",More than 5 hours,2,3,1,2,4,3,4,4,3,4,1,1
+232,4/22/22 13:31,20,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube",Less than an Hour,3,1,1,1,2,2,5,1,2,1,3,1
+233,4/22/22 22:00,25,Male,Single,University Student,University,Yes,YouTube,Between 1 and 2 hours,5,5,1,1,2,3,4,5,3,5,2,5
+234,4/22/22 22:26,21,Female,Single,University Student,"University, Company, Goverment",Yes,"Facebook, YouTube, Discord, Pinterest",Between 3 and 4 hours,2,1,1,2,2,1,1,1,1,1,1,1
+235,4/24/22 5:23,23,Male,In a relationship,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit, TikTok",More than 5 hours,4,4,3,5,4,4,4,2,1,4,4,3
+236,4/26/22 3:01,22,Female,In a relationship,Salaried Worker,Company,Yes,"Instagram, YouTube, Discord, Reddit, TikTok",More than 5 hours,5,4,4,4,4,3,4,4,4,4,5,1
+237,4/26/22 21:59,36,Male,Married,Salaried Worker,University,Yes,"Facebook, Instagram, YouTube, Pinterest",Less than an Hour,2,1,1,2,3,1,3,3,1,2,1,1
+238,4/26/22 22:13,22,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",Between 2 and 3 hours,5,5,3,5,5,2,3,1,2,5,3,5
+239,4/26/22 23:02,69,Trans,Divorced,Salaried Worker,N/A,Yes,TikTok,More than 5 hours,5,5,5,5,5,5,5,5,5,5,5,5
+240,4/26/22 23:15,25,Female,Single,Salaried Worker,University,Yes,"Facebook, Instagram, YouTube",Between 4 and 5 hours,3,4,2,5,5,1,5,1,5,4,5,5
+241,4/26/22 23:32,22,Female,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, TikTok",Between 4 and 5 hours,4,2,1,5,4,3,5,1,4,4,4,2
+242,4/26/22 23:56,23,Male,Single,University Student,"University, N/A",Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",Between 3 and 4 hours,3,4,2,5,5,5,5,4,4,2,3,4
+243,4/27/22 2:12,23,Male,Single,University Student,University,Yes,"Facebook, Instagram",Less than an Hour,3,2,1,3,4,3,3,3,2,3,2,5
+244,5/11/22 19:06,19,Female,Single,School Student,University,Yes,"Facebook, Instagram, YouTube, Discord",Between 3 and 4 hours,5,3,2,3,5,5,2,3,3,3,5,5
+245,5/11/22 19:07,21,Female,Single,University Student,"School, University, Private",Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit",Between 1 and 2 hours,3,5,2,4,2,2,1,4,2,3,2,3
+246,5/11/22 19:09,27,Female,In a relationship,Salaried Worker,Private,Yes,"Facebook, Instagram, YouTube, Snapchat",Between 4 and 5 hours,5,5,3,4,4,4,4,2,3,4,4,2
+247,5/11/22 19:16,25,Female,Single,University Student,University,Yes,"Facebook, YouTube, Discord",More than 5 hours,4,3,1,2,4,3,4,2,2,4,2,1
+248,5/11/22 19:19,20,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat",Between 2 and 3 hours,4,2,1,3,4,1,1,5,1,2,2,3
+249,5/11/22 19:27,34,Female,Married,Salaried Worker,School,Yes,Facebook,Between 1 and 2 hours,2,5,1,1,1,5,2,3,5,1,2,1
+250,5/11/22 19:30,23,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest",More than 5 hours,5,5,3,3,5,3,3,4,3,4,5,4
+251,5/11/22 19:31,34,Female,Married,Salaried Worker,School,Yes,Facebook,Between 1 and 2 hours,2,2,1,1,1,1,2,1,1,1,1,1
+252,5/11/22 19:35,26,Female,Single,Salaried Worker,N/A,Yes,"Facebook, Instagram, YouTube, Discord, Pinterest, TikTok",Between 4 and 5 hours,5,5,3,5,5,5,3,3,3,5,4,4
+253,5/11/22 19:45,25,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",Between 4 and 5 hours,4,5,2,5,1,5,2,3,4,5,1,5
+254,5/11/22 19:47,22,Female,Married,University Student,University,Yes,"Facebook, Instagram, YouTube, Pinterest",Between 2 and 3 hours,5,4,2,3,3,2,1,3,2,2,3,3
+255,5/11/22 19:47,20,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",Less than an Hour,4,2,1,3,5,2,1,4,2,2,4,2
+256,5/11/22 19:47,23,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,4,5,3,4,5,5,5,1,3,3,4,5
+257,5/11/22 19:48,91,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 2 and 3 hours,2,5,4,4,5,5,5,1,5,5,5,5
+258,5/11/22 19:51,22,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 4 and 5 hours,4,1,2,1,1,1,1,2,1,1,2,3
+259,5/11/22 19:51,23,Female,Single,University Student,"University, N/A",Yes,"Facebook, Instagram, YouTube, TikTok",More than 5 hours,3,3,2,3,3,4,3,3,4,4,3,2
+260,5/11/22 19:58,21,Female,In a relationship,University Student,"University, Company",Yes,"Facebook, Instagram, Discord",Between 2 and 3 hours,2,3,4,2,3,4,2,4,2,3,1,4
+261,5/11/22 20:12,36,Female,Married,Salaried Worker,N/A,Yes,"Facebook, YouTube, Snapchat",Between 1 and 2 hours,4,1,1,2,2,1,1,3,2,2,3,3
+262,5/11/22 20:13,21,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",Between 2 and 3 hours,3,3,2,3,5,4,3,3,3,5,5,4
+263,5/11/22 20:15,22,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube",Between 1 and 2 hours,2,2,2,2,2,3,4,3,3,3,2,2
+264,5/11/22 20:15,22,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit, Pinterest, TikTok",More than 5 hours,4,4,3,4,2,4,4,3,4,3,4,3
+265,5/11/22 20:17,22,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,5,2,5,4,4,4,4,3,2,2,3,2
+266,5/11/22 20:18,20,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Discord",Between 3 and 4 hours,3,3,3,3,4,3,4,3,3,3,3,2
+267,5/11/22 20:19,26,Female,In a relationship,Salaried Worker,Private,Yes,"Facebook, Twitter, Instagram, YouTube",More than 5 hours,4,4,1,3,3,2,2,4,1,2,2,4
+268,5/11/22 20:34,21,Male,Single,University Student,University,Yes,YouTube,Between 2 and 3 hours,3,3,2,5,5,4,2,3,2,4,2,4
+269,5/11/22 20:35,20,Female,Single,University Student,"University, Private",Yes,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",More than 5 hours,4,5,3,5,5,5,2,3,1,3,4,5
+270,5/11/22 20:36,21,Female,In a relationship,University Student,"School, University, Private",Yes,"Facebook, Twitter, YouTube, Discord, Pinterest",More than 5 hours,3,2,1,2,3,1,1,3,1,3,3,2
+271,5/11/22 20:39,19,Female,Single,School Student,School,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",More than 5 hours,3,2,1,5,2,3,1,3,1,2,1,5
+272,5/11/22 20:41,20,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",More than 5 hours,4,5,5,5,5,5,5,1,4,5,5,5
+273,5/11/22 20:45,22,Female,Single,University Student,"University, Private",Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 3 and 4 hours,5,4,3,4,4,3,2,3,4,3,3,4
+274,5/11/22 20:50,23,Male,Single,University Student,"School, University",Yes,"YouTube, Discord, Reddit",Between 1 and 2 hours,2,2,1,5,5,5,1,3,1,5,1,5
+275,5/11/22 20:51,21,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit",Between 2 and 3 hours,4,4,4,5,5,4,4,2,3,3,4,3
+276,5/11/22 20:57,21,Female,In a relationship,University Student,"School, University",Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",Between 3 and 4 hours,5,4,2,5,5,4,4,3,3,5,5,5
+277,5/11/22 20:58,22,Male,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 4 and 5 hours,5,5,3,5,5,5,5,5,5,5,5,5
+278,5/11/22 21:02,26,Male,Single,Salaried Worker,Company,Yes,"Facebook, Instagram, YouTube, Discord",More than 5 hours,5,5,5,5,5,5,5,5,1,5,5,5
+279,5/11/22 21:06,22,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Discord",Between 2 and 3 hours,4,4,2,3,5,3,1,3,4,5,2,2
+280,5/11/22 21:08,17,Male,Single,School Student,School,Yes,Discord,Between 2 and 3 hours,3,4,3,3,3,3,5,3,4,5,3,4
+281,5/11/22 21:14,23,Male,Single,University Student,"University, Private",Yes,"Facebook, Instagram, YouTube, Discord, Pinterest, TikTok",More than 5 hours,4,3,3,4,5,4,5,4,4,3,4,5
+282,5/11/22 21:14,21,Male,Single,School Student,"School, Company",Yes,"Facebook, Instagram, YouTube, Discord, Reddit, Pinterest",Between 3 and 4 hours,2,4,2,4,5,4,5,4,4,4,3,3
+283,5/11/22 21:16,22,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,1,1,1,1,1,1,2,2,1,2,1,2
+284,5/11/22 21:19,20,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, TikTok",More than 5 hours,4,5,3,2,5,3,4,2,1,5,4,5
+285,5/11/22 21:20,24,Female,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube",Between 4 and 5 hours,4,4,3,4,4,4,3,3,3,4,4,4
+286,5/11/22 21:20,22,Female,Single,University Student,Private,Yes,"Facebook, Instagram, YouTube, Snapchat",Between 3 and 4 hours,4,4,2,5,4,5,3,2,2,3,4,4
+287,5/11/22 21:22,24,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Discord",Between 3 and 4 hours,4,3,2,3,2,3,2,1,3,2,3,2
+288,5/11/22 21:22,22,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Pinterest",More than 5 hours,3,4,4,5,5,4,5,2,4,5,4,4
+289,5/11/22 21:24,26,Male,In a relationship,University Student,"University, Private",Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest",Between 4 and 5 hours,3,3,2,2,4,2,2,3,4,4,2,2
+290,5/11/22 21:25,24,Female,In a relationship,Salaried Worker,Private,Yes,"Facebook, Instagram, YouTube, Discord, Pinterest",Between 3 and 4 hours,2,1,1,2,4,2,1,1,3,3,2,4
+291,5/11/22 21:29,22,Female,Single,University Student,University,Yes,"Facebook, YouTube",Between 2 and 3 hours,3,4,1,2,2,3,3,3,3,3,4,4
+292,5/11/22 21:30,25,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 3 and 4 hours,3,2,1,2,4,3,3,3,2,4,2,3
+293,5/11/22 21:32,21,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 4 and 5 hours,4,5,3,4,4,5,2,3,3,4,5,4
+294,5/11/22 21:34,20,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, TikTok",Between 2 and 3 hours,4,4,4,4,4,4,5,5,4,5,5,5
+295,5/11/22 21:35,22,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube",Between 1 and 2 hours,3,3,1,3,1,1,1,3,5,1,1,1
+296,5/11/22 21:35,25,Female,In a relationship,Salaried Worker,Company,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Pinterest",Between 2 and 3 hours,2,1,3,2,4,4,3,3,1,2,1,1
+297,5/11/22 21:36,17,Male,Single,School Student,School,Yes,"Facebook, Discord",Between 4 and 5 hours,2,1,4,2,5,2,4,3,1,4,2,2
+298,5/11/22 21:38,22,Female,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube",Between 2 and 3 hours,4,2,3,3,5,4,4,3,3,4,3,5
+299,5/11/22 21:45,26,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Reddit",Between 1 and 2 hours,3,4,2,4,4,4,2,2,1,3,3,2
+300,5/11/22 21:46,22,Female,Single,University Student,"University, Goverment",Yes,Facebook,Between 2 and 3 hours,2,3,2,3,3,3,4,3,3,5,3,3
+301,5/11/22 21:46,23,Male,In a relationship,University Student,"University, Company, Private",Yes,"Facebook, Instagram, YouTube, Snapchat, Pinterest",Between 2 and 3 hours,3,4,5,3,5,3,3,3,3,5,1,4
+302,5/11/22 21:47,25,Male,Single,Salaried Worker,"Company, Private",Yes,"Facebook, Instagram, YouTube, Snapchat",Between 2 and 3 hours,4,2,2,3,5,4,1,1,2,5,5,5
+303,5/11/22 21:55,21,Male,Single,School Student,"University, Company",Yes,"Instagram, YouTube, Snapchat, Discord, Reddit",Between 2 and 3 hours,4,5,3,5,2,5,2,3,4,4,5,2
+304,5/11/22 21:56,30,Female,Single,Salaried Worker,Private,Yes,"Facebook, TikTok",Between 2 and 3 hours,4,5,4,3,3,5,4,3,1,4,4,5
+305,5/11/22 21:56,23,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube",Between 3 and 4 hours,2,4,1,3,4,3,4,2,2,3,3,2
+306,5/11/22 21:56,22,Male,In a relationship,Salaried Worker,"University, Company",Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, TikTok",Between 4 and 5 hours,4,5,4,5,5,4,3,3,3,3,4,2
+307,5/11/22 21:59,21,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube",Between 4 and 5 hours,5,5,5,4,4,3,5,2,2,5,4,3
+308,5/11/22 22:01,20,Female,In a relationship,University Student,University,Yes,"Facebook, YouTube",Between 3 and 4 hours,5,3,2,4,2,2,1,3,5,1,4,1
+309,5/11/22 22:03,18,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest",More than 5 hours,3,2,2,2,4,2,1,3,3,2,3,4
+310,5/11/22 22:05,20,Female,Single,University Student,University,Yes,"Twitter, Instagram, YouTube",Between 3 and 4 hours,3,3,2,2,4,2,2,3,2,2,3,1
+311,5/11/22 22:06,15,Female,Single,School Student,School,Yes,"Instagram, YouTube, Discord, Pinterest",Between 3 and 4 hours,4,3,1,3,5,3,3,3,1,5,4,5
+312,5/11/22 22:07,22,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",More than 5 hours,5,3,2,3,5,5,1,3,1,3,4,5
+313,5/11/22 22:08,17,Female,Single,School Student,School,Yes,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",More than 5 hours,2,5,4,5,3,5,2,2,3,2,4,2
+314,5/11/22 22:10,21,Male,Single,University Student,University,Yes,"Facebook, Instagram",Between 1 and 2 hours,2,3,1,4,5,4,3,3,1,5,5,5
+315,5/11/22 22:11,22,Female,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, TikTok",More than 5 hours,5,1,4,1,4,4,3,4,2,4,5,4
+316,5/11/22 22:11,23,Female,Married,University Student,University,Yes,Facebook,More than 5 hours,4,3,3,4,4,5,4,4,3,3,3,4
+317,5/11/22 22:11,24,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",Between 3 and 4 hours,2,1,1,1,4,1,1,3,1,3,1,3
+318,5/11/22 22:14,21,Female,In a relationship,University Student,"University, Private",Yes,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,4,5,4,5,3,5,3,3,2,5,5,4
+319,5/11/22 22:20,22,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",More than 5 hours,5,5,5,5,5,5,5,1,4,5,5,5
+320,5/11/22 22:21,22,Female,Single,University Student,University,Yes,"Facebook, YouTube, Snapchat, Discord",More than 5 hours,5,5,5,5,5,5,5,5,5,5,5,5
+321,5/11/22 22:21,21,Female,Single,University Student,"University, Private",Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, TikTok",More than 5 hours,3,4,5,4,5,4,5,5,3,5,4,5
+322,5/11/22 22:21,21,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest",More than 5 hours,3,3,2,2,4,4,4,3,3,4,2,4
+323,5/11/22 22:29,18,Male,Single,School Student,N/A,Yes,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit, Pinterest",More than 5 hours,5,4,1,2,4,3,1,3,3,3,3,5
+324,5/11/22 22:30,19,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord",Less than an Hour,3,2,1,2,4,2,2,3,4,2,2,5
+325,5/11/22 22:32,22,Male,Single,University Student,"University, Company",Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",More than 5 hours,5,4,2,4,5,5,1,1,1,5,1,5
+326,5/11/22 22:33,21,Non binary ,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Reddit, Pinterest, TikTok",More than 5 hours,4,2,3,5,5,4,4,3,5,5,5,1
+327,5/11/22 22:33,21,Female,Single,University Student,N/A,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",Between 3 and 4 hours,5,5,4,5,5,4,5,5,3,5,3,5
+328,5/11/22 22:34,22,Male,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Discord, Pinterest",Between 2 and 3 hours,4,5,4,4,5,5,2,2,5,5,5,4
+329,5/11/22 22:36,21,Female,Single,University Student,"University, Company",Yes,"Facebook, Instagram, Snapchat, Pinterest, TikTok",Between 2 and 3 hours,4,4,1,3,2,2,2,2,2,4,3,2
+330,5/11/22 22:38,23,Male,Married,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 2 and 3 hours,5,4,3,5,4,5,3,2,2,4,4,4
+331,5/11/22 22:38,19,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 3 and 4 hours,4,2,2,2,3,1,2,5,1,1,3,4
+332,5/11/22 22:41,26,Male,Single,Salaried Worker,"School, Company",Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",Between 2 and 3 hours,4,3,2,4,3,3,4,3,1,4,2,2
+333,5/11/22 22:44,27,Male,Single,Salaried Worker,Company,Yes,"Facebook, Twitter, Instagram, YouTube, Reddit, Pinterest",Between 2 and 3 hours,5,5,2,2,1,1,2,4,1,3,2,3
+334,5/11/22 22:45,25,Female,Single,University Student,"University, Company, Private",Yes,"Facebook, Instagram, YouTube, Pinterest, TikTok",More than 5 hours,5,5,4,4,5,1,2,2,3,5,2,4
+335,5/11/22 22:46,20,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Discord",Between 4 and 5 hours,3,3,3,3,3,3,3,3,3,3,3,3
+336,5/11/22 22:50,20,Female,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat",More than 5 hours,4,2,4,3,5,4,1,3,2,4,4,2
+337,5/11/22 22:52,22,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",Between 3 and 4 hours,4,4,1,3,3,1,1,1,1,1,2,2
+338,5/11/22 22:54,18,Female,Single,School Student,Private,Yes,"Facebook, Instagram, YouTube",Between 3 and 4 hours,5,5,2,5,4,5,5,2,4,4,5,5
+339,5/11/22 22:54,22,Male,In a relationship,University Student,"University, Company",Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit",Between 2 and 3 hours,4,3,2,3,4,3,2,4,1,3,1,3
+340,5/11/22 22:55,20,Male,Single,Salaried Worker,Company,Yes,"Facebook, Twitter, Instagram, Snapchat, Reddit",Between 1 and 2 hours,3,3,2,3,5,3,1,3,4,5,3,2
+341,5/11/22 22:57,24,Male,Single,Salaried Worker,Company,Yes,"YouTube, Discord",More than 5 hours,5,3,5,5,4,5,1,3,1,3,5,1
+342,5/11/22 23:02,21,Male,Single,University Student,University,Yes,"Facebook, Instagram, YouTube",Between 4 and 5 hours,3,4,3,3,5,5,4,4,4,3,4,3
+343,5/11/22 23:11,29,Female,Single,Salaried Worker,Private,Yes,"Facebook, Instagram",Between 3 and 4 hours,5,3,1,3,5,3,2,2,1,5,5,5
+344,5/11/22 23:12,21,Male,Single,University Student,"University, Company, Private",Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",Between 1 and 2 hours,4,4,3,3,5,2,4,2,2,2,4,5
+345,5/11/22 23:16,19,Female,Single,University Student,"School, University, Private",Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",More than 5 hours,3,5,4,3,5,4,1,5,1,5,5,5
+346,5/11/22 23:17,21,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 2 and 3 hours,5,4,3,4,4,4,2,3,1,5,4,2
+347,5/11/22 23:22,43,Male,Married,Salaried Worker,Goverment,Yes,"Facebook, YouTube",Less than an Hour,2,1,1,1,1,1,1,3,3,1,1,1
+348,5/11/22 23:23,22,Female,Married,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 4 and 5 hours,5,5,3,4,4,4,4,1,1,4,2,1
+349,5/11/22 23:27,24,Male,In a relationship,University Student,"University, Company",Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",Between 4 and 5 hours,4,5,3,5,5,5,1,3,1,3,2,1
+350,5/11/22 23:33,18,Female,Single,School Student,School,Yes,"Facebook, YouTube",More than 5 hours,5,5,3,3,5,4,1,3,1,5,4,4
+351,5/11/22 23:34,19,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 3 and 4 hours,4,3,1,3,4,4,2,3,1,4,3,5
+352,5/11/22 23:35,37,Female,In a relationship,Salaried Worker,Private,Yes,"Facebook, YouTube",Between 1 and 2 hours,2,2,1,3,3,2,2,3,1,3,3,4
+353,5/11/22 23:37,24,Male,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Discord, Reddit",Between 4 and 5 hours,4,4,2,4,4,5,4,2,3,3,4,5
+354,5/11/22 23:38,29,Female,Single,Salaried Worker,University,Yes,"Facebook, Twitter, Instagram, YouTube, Reddit, Pinterest",Between 1 and 2 hours,2,2,1,4,5,4,4,2,1,5,2,4
+355,5/11/22 23:40,19,Male,Single,School Student,Private,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, TikTok",Between 4 and 5 hours,3,3,2,2,3,2,2,1,3,2,2,2
+356,5/11/22 23:41,35,Male,Married,Salaried Worker,Company,Yes,"Facebook, Instagram, YouTube, Discord",Less than an Hour,2,3,2,2,4,4,2,2,4,3,2,5
+357,5/11/22 23:43,22,Female,Single,University Student,University,Yes,"Twitter, Discord, Reddit",Between 2 and 3 hours,4,5,4,5,5,4,3,3,1,4,4,2
+358,5/11/22 23:54,23,Male,Single,University Student,"University, Company",Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest",Between 1 and 2 hours,3,2,2,3,2,2,2,4,2,3,2,3
+359,5/11/22 23:59,22,Female,Single,University Student,University,Yes,"Twitter, Instagram, TikTok",More than 5 hours,5,5,5,4,4,4,2,3,2,3,4,1
+360,5/12/22 0:07,25,Male,Single,Salaried Worker,Private,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 2 and 3 hours,4,4,1,5,5,3,5,2,2,4,3,5
+361,5/12/22 0:16,19,Male,Single,School Student,School,Yes,"Facebook, Instagram, YouTube, TikTok",Between 4 and 5 hours,3,3,4,3,3,3,4,3,3,3,3,2
+362,5/12/22 0:22,29,Female,Married,Salaried Worker,Private,Yes,"Facebook, Instagram, YouTube, Pinterest",Between 1 and 2 hours,4,4,1,3,3,3,2,3,1,2,2,4
+363,5/12/22 0:22,21,Female,In a relationship,University Student,"University, Private",Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Pinterest",Between 4 and 5 hours,4,5,3,3,3,3,5,1,4,4,3,5
+364,5/12/22 0:26,21,Male,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 4 and 5 hours,4,2,2,2,1,1,1,3,1,2,2,2
+365,5/12/22 0:29,22,Female,Married,University Student,N/A,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 2 and 3 hours,3,2,1,1,1,3,1,1,2,1,2,2
+366,5/12/22 0:30,23,Female,Single,University Student,"University, Company",Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 4 and 5 hours,5,4,2,4,5,5,5,1,4,5,2,5
+367,5/12/22 0:32,22,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube",Between 2 and 3 hours,4,5,4,5,3,5,4,3,2,4,4,4
+368,5/12/22 0:41,20,Male,Divorced,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord",More than 5 hours,5,5,5,5,5,5,5,5,5,5,5,5
+369,5/12/22 0:49,22,There are others???,In a relationship,Salaried Worker,Company,Yes,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,4,5,5,5,1,3,3,4,2,1,2,1
+370,5/12/22 0:52,27,Female,Single,Salaried Worker,Private,Yes,"Facebook, Instagram, Snapchat, Discord, Pinterest, TikTok",Between 3 and 4 hours,3,3,3,3,4,4,4,4,3,5,3,4
+371,5/12/22 0:54,24,Male,Single,Salaried Worker,Company,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",More than 5 hours,5,2,2,2,4,2,2,3,3,2,1,5
+372,5/12/22 0:55,21,Female,Married,University Student,"University, Company",Yes,"Facebook, Instagram, YouTube, Snapchat",Between 1 and 2 hours,5,5,2,4,5,5,5,1,5,4,5,5
+373,5/12/22 1:12,23,Female,Single,University Student,University,Yes,"YouTube, Pinterest",Less than an Hour,3,2,1,1,2,1,1,2,2,3,4,3
+374,5/12/22 1:30,21,Female,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Reddit, Pinterest",Between 3 and 4 hours,4,4,2,5,4,4,2,3,2,3,3,5
+375,5/12/22 1:36,23,Female,In a relationship,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat",Between 2 and 3 hours,4,4,3,3,4,2,4,2,3,2,2,1
+376,5/12/22 2:05,24,Female,In a relationship,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",Between 4 and 5 hours,3,2,2,3,5,3,5,2,3,5,5,4
+377,5/12/22 2:06,21,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 4 and 5 hours,3,2,2,3,4,3,1,3,2,5,2,4
+378,5/12/22 2:09,30,Female,Single,Salaried Worker,N/A,Yes,"Facebook, Instagram, YouTube",Between 2 and 3 hours,4,5,3,5,5,5,4,2,5,4,5,4
+379,5/12/22 2:10,23,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",Between 3 and 4 hours,3,4,2,2,5,4,5,5,5,5,2,2
+380,5/12/22 2:18,22,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,4,3,3,3,2,2,3,3,1,1,3,2
+381,5/12/22 2:30,29,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",More than 5 hours,5,5,3,5,4,5,5,3,3,5,5,5
+382,5/12/22 3:02,20,Male,Single,University Student,"School, University",Yes,"Instagram, YouTube, Discord, Reddit, Pinterest",Between 3 and 4 hours,4,3,2,3,5,5,5,5,5,5,5,1
+383,5/12/22 3:24,26.7,Female,Single,University Student,University,Yes,"Facebook, YouTube",More than 5 hours,4,2,2,3,5,3,5,2,3,4,5,5
+384,5/12/22 3:24,24,Male,Single,Salaried Worker,Company,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 1 and 2 hours,3,4,1,3,3,2,3,3,4,5,3,3
+385,5/12/22 3:26,26,Male,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat",Between 3 and 4 hours,4,5,3,4,4,4,5,1,2,3,4,3
+386,5/12/22 3:37,22,Male,Single,University Student,"University, Company",Yes,"Facebook, YouTube, Discord",Between 2 and 3 hours,5,4,2,3,3,4,3,4,1,2,2,4
+387,5/12/22 3:47,23,Male,Single,University Student,"University, Private",Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",Between 4 and 5 hours,5,5,2,4,5,3,5,3,2,3,3,4
+388,5/12/22 3:57,19,Male,Single,School Student,School,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",Between 4 and 5 hours,4,4,2,4,4,4,5,2,4,2,4,4
+389,5/12/22 4:35,21,Female,Single,University Student,University,Yes,"Twitter, Instagram, YouTube, TikTok",Between 2 and 3 hours,3,4,3,4,4,4,5,1,2,4,4,2
+390,5/12/22 4:46,20,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 4 and 5 hours,5,5,5,5,5,5,2,3,2,4,4,5
+391,5/12/22 5:24,22,Male,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord",More than 5 hours,4,4,4,4,2,3,2,3,4,3,3,4
+392,5/12/22 8:09,22,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Discord, Pinterest",More than 5 hours,3,3,3,4,5,5,4,3,1,5,3,3
+393,5/12/22 8:41,23,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",More than 5 hours,5,4,4,5,5,5,2,3,1,5,5,5
+394,5/12/22 9:25,22,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord",More than 5 hours,4,5,5,5,5,5,5,2,4,5,4,1
+395,5/12/22 10:10,20,Female,In a relationship,School Student,"Company, Private",Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",More than 5 hours,5,4,2,3,3,2,1,3,3,2,2,2
+396,5/12/22 10:57,27,Female,Married,Salaried Worker,Private,Yes,"Facebook, Instagram, YouTube, Pinterest",Between 1 and 2 hours,4,2,1,2,3,1,2,3,4,2,2,1
+397,5/12/22 11:06,22,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,5,4,4,4,4,4,2,4,3,5,4,3
+398,5/12/22 11:06,21,Female,Single,University Student,University,Yes,Facebook,More than 5 hours,4,4,3,5,4,5,4,3,4,5,5,5
+399,5/12/22 13:15,21,Female,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Pinterest",Between 2 and 3 hours,2,1,4,2,2,2,3,3,2,1,4,4
+400,5/12/22 13:23,24,Female,Single,University Student,N/A,Yes,"Facebook, Instagram, YouTube, Snapchat",Between 4 and 5 hours,3,4,1,5,4,5,3,3,4,5,5,5
+401,5/12/22 17:12,19,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube",Between 3 and 4 hours,4,2,3,3,4,3,2,2,2,4,4,3
+402,5/12/22 18:11,52,Male,Married,Salaried Worker,Private,Yes,"Facebook, YouTube",Between 1 and 2 hours,2,2,3,3,3,2,3,2,2,3,2,4
+403,5/12/22 18:16,26,Male,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Reddit, Pinterest, TikTok",More than 5 hours,5,4,3,4,4,4,3,3,2,3,4,5
+404,5/12/22 18:33,44,Male,Married,Salaried Worker,Private,Yes,Facebook,Less than an Hour,1,1,1,2,1,1,1,1,1,1,1,1
+405,5/12/22 18:36,44,Male,Married,Salaried Worker,Private,Yes,Facebook,Less than an Hour,1,1,1,1,1,1,1,1,1,1,1,1
+406,5/12/22 18:58,19,Female,Single,University Student,University,Yes,"Facebook, YouTube, Discord, Pinterest",Between 3 and 4 hours,4,5,2,4,5,3,5,5,1,5,4,5
+407,5/12/22 19:12,35,Male,Single,Salaried Worker,Private,Yes,"Facebook, Snapchat, Reddit",Between 3 and 4 hours,5,5,5,5,5,5,5,1,1,5,5,5
+408,5/12/22 19:12,21,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, Snapchat",More than 5 hours,3,5,2,5,3,5,4,2,4,4,3,3
+409,5/12/22 19:12,20,Female,Single,University Student,University,Yes,"Facebook, Instagram, TikTok",Between 4 and 5 hours,4,5,5,5,5,5,2,2,1,4,5,1
+410,5/12/22 19:15,24,Female,In a relationship,University Student,Private,Yes,"Facebook, Twitter, Instagram, YouTube, Reddit",More than 5 hours,5,2,4,2,5,1,3,2,4,4,2,5
+411,5/12/22 19:23,21,Female,Single,University Student,"School, University",Yes,"Facebook, Instagram, YouTube, Reddit, Pinterest",Between 3 and 4 hours,4,4,3,5,5,5,5,1,1,3,3,1
+412,5/12/22 19:40,24,Male,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Discord, Reddit",More than 5 hours,3,4,4,4,3,3,2,3,1,3,3,3
+413,5/12/22 19:41,21,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat",Between 3 and 4 hours,5,3,3,5,5,5,5,3,1,5,4,5
+414,5/12/22 19:47,17,Male,Single,School Student,School,Yes,"Facebook, Instagram, YouTube, Discord",More than 5 hours,2,4,3,5,5,5,3,2,1,5,4,5
+415,5/12/22 19:51,26,Female,In a relationship,University Student,University,Yes,Facebook,Between 4 and 5 hours,4,4,2,4,3,4,3,3,2,4,3,4
+416,5/12/22 20:08,18,Male,Single,School Student,School,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, TikTok",Between 3 and 4 hours,4,5,4,5,5,4,4,3,3,5,3,5
+417,5/12/22 20:13,18,Female,Single,School Student,"School, N/A",Yes,"Facebook, Instagram, YouTube, Discord",Between 3 and 4 hours,2,1,1,3,3,2,1,3,1,2,2,2
+418,5/12/22 20:17,18,Female,In a relationship,School Student,School,Yes,"Facebook, Instagram, YouTube, Snapchat, Reddit, Pinterest, TikTok",Between 3 and 4 hours,5,3,4,3,4,4,1,3,1,3,5,5
+419,5/12/22 21:00,23,Male,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 3 and 4 hours,3,4,2,4,5,4,2,3,2,4,3,3
+420,5/12/22 21:06,20,Male,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 1 and 2 hours,4,5,3,5,2,5,1,2,3,3,2,1
+421,5/12/22 21:10,23,Male,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord",More than 5 hours,4,4,3,4,5,4,4,3,2,3,3,5
+422,5/12/22 21:13,25,Male,In a relationship,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit, Pinterest",Less than an Hour,2,2,3,2,3,3,3,4,3,2,2,4
+423,5/12/22 21:25,26,Male,Single,Salaried Worker,Private,Yes,"Facebook, Instagram, YouTube, Reddit",Between 2 and 3 hours,4,3,3,3,5,4,4,1,4,5,5,4
+424,5/12/22 21:31,20,Male,In a relationship,University Student,"School, University",Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, TikTok",More than 5 hours,4,5,3,4,5,4,5,2,4,4,4,5
+425,5/12/22 21:33,19,Male,In a relationship,School Student,School,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",Between 1 and 2 hours,4,3,1,3,4,2,2,3,3,1,4,3
+426,5/12/22 21:45,17,Female,Single,School Student,N/A,Yes,"Facebook, Instagram, YouTube, Pinterest",Between 2 and 3 hours,4,1,3,2,5,4,5,5,1,4,4,1
+427,5/12/22 21:53,24,Female,Married,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat",Between 3 and 4 hours,4,3,5,3,3,5,4,2,3,3,3,3
+428,5/12/22 23:01,29,Female,Married,Salaried Worker,Company,Yes,"Facebook, Instagram, YouTube, Pinterest",More than 5 hours,5,5,5,4,5,4,3,3,4,4,4,3
+429,5/12/22 23:13,30,Female,Married,Retired,N/A,Yes,"Facebook, Instagram, YouTube",Between 3 and 4 hours,1,5,1,2,3,3,2,4,3,3,3,2
+430,5/12/22 23:56,21,Female,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, TikTok",Between 3 and 4 hours,4,5,4,4,5,5,5,1,3,5,4,4
+431,5/13/22 0:15,23,Male,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",More than 5 hours,4,3,2,4,4,4,3,3,3,5,5,5
+432,5/13/22 0:21,21,Male,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",More than 5 hours,5,5,2,3,4,3,4,4,4,5,3,5
+433,5/13/22 0:27,20,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Discord",More than 5 hours,3,5,3,5,5,5,5,5,5,5,5,5
+434,5/13/22 1:06,21,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",Between 4 and 5 hours,4,3,2,5,5,4,5,1,3,5,5,5
+435,5/13/22 1:16,22,Female,Single,University Student,University,Yes,YouTube,Between 4 and 5 hours,3,1,2,3,4,2,2,1,1,4,3,5
+436,5/13/22 1:20,22,Female,Single,University Student,University,Yes,"Facebook, Instagram",Between 2 and 3 hours,3,2,2,2,5,3,5,2,5,3,3,5
+437,5/13/22 1:25,22,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, Snapchat",More than 5 hours,1,5,2,3,5,2,1,2,2,3,3,4
+438,5/13/22 1:27,27,Female,In a relationship,Salaried Worker,Private,Yes,"Facebook, Instagram, YouTube, Reddit, TikTok",Between 4 and 5 hours,4,3,3,4,3,3,4,2,4,2,1,2
+439,5/13/22 1:30,21,Male,Single,University Student,University,Yes,"Facebook, Instagram, YouTube",More than 5 hours,5,4,2,2,2,3,2,3,1,2,2,5
+440,5/13/22 1:46,23,Male,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, TikTok",Between 4 and 5 hours,4,3,2,4,4,3,4,4,4,4,3,4
+441,5/13/22 1:50,22,Male,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Discord",Between 3 and 4 hours,4,4,5,4,2,4,3,3,4,2,3,4
+442,5/13/22 3:51,21,Female,In a relationship,University Student,"University, Private",Yes,YouTube,Between 3 and 4 hours,3,4,4,3,3,3,2,5,3,1,3,2
+443,5/13/22 4:00,23,Male,Single,University Student,"University, Company",Yes,"Facebook, YouTube, Discord, Reddit",Between 2 and 3 hours,4,2,1,2,3,2,3,3,1,3,2,2
+444,5/13/22 10:05,21,Female,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Pinterest",More than 5 hours,4,5,3,4,4,4,3,3,4,4,4,3
+445,5/13/22 11:00,20,Male,Single,University Student,"University, Private",Yes,"Facebook, Instagram, YouTube",Between 4 and 5 hours,5,3,2,3,4,2,2,4,3,3,4,3
+446,5/13/22 11:12,23,Male,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Discord, Reddit, Pinterest",Between 1 and 2 hours,2,1,1,2,5,3,3,4,1,3,2,4
+447,5/13/22 13:43,22,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",Between 3 and 4 hours,3,5,3,5,5,5,5,3,3,5,4,5
+448,5/13/22 14:28,20,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,5,3,4,3,5,5,5,1,4,5,5,3
+449,5/13/22 16:26,21,Male,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 3 and 4 hours,4,4,4,4,4,5,4,1,4,4,4,5
+450,5/13/22 16:32,25,Female,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Pinterest",Between 2 and 3 hours,3,5,2,2,3,3,1,3,1,2,4,5
+451,5/13/22 17:13,21,Female,Single,University Student,University,Yes,"Facebook, Instagram, Discord",Between 3 and 4 hours,2,2,1,4,4,4,2,1,1,2,2,2
+452,5/13/22 17:32,28,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Discord, Reddit",Between 4 and 5 hours,4,3,1,4,5,4,1,3,1,4,1,5
+453,5/13/22 19:02,22,Female,Single,Salaried Worker,Private,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 3 and 4 hours,1,1,1,5,3,5,1,1,1,3,4,3
+454,5/13/22 19:48,60,Male,Single,Retired,N/A,Yes,"Facebook, YouTube",Between 2 and 3 hours,1,2,1,1,1,1,3,3,3,1,1,1
+455,5/13/22 20:50,49,Male,Married,Salaried Worker,School,Yes,"Facebook, YouTube, Pinterest",Less than an Hour,3,4,3,3,4,3,3,3,3,3,2,2
+456,5/13/22 21:40,34,Female,Married,Salaried Worker,Private,Yes,"Facebook, Instagram, YouTube",Less than an Hour,2,1,1,1,1,1,3,4,1,1,2,1
+457,5/13/22 22:43,56,Male,Married,Salaried Worker,Company,Yes,"Facebook, Twitter, YouTube, Pinterest",Between 2 and 3 hours,1,1,1,1,1,1,1,1,1,1,1,2
+458,5/13/22 23:36,51,Male,Married,Salaried Worker,Private,Yes,"Facebook, Twitter, Instagram, YouTube",Between 1 and 2 hours,3,2,3,4,2,3,4,3,3,2,2,4
+459,5/14/22 0:01,23,Female,Single,School Student,University,Yes,Facebook,Between 2 and 3 hours,3,3,3,3,3,2,2,3,3,4,2,2
+460,5/14/22 2:16,21,Female,Single,University Student,University,Yes,"Facebook, YouTube, Discord",Between 4 and 5 hours,3,5,3,3,3,2,3,3,1,2,2,3
+461,5/14/22 7:11,50,Male,Married,University Student,Private,Yes,"Facebook, Instagram",Between 1 and 2 hours,1,1,1,1,1,1,1,1,1,1,1,1
+462,5/14/22 7:23,22,Female,Single,University Student,University,Yes,"Twitter, Instagram, YouTube",Between 3 and 4 hours,2,2,1,4,5,5,1,4,1,3,5,2
+463,5/14/22 11:26,28,Female,Married,Salaried Worker,Private,Yes,"Facebook, Instagram, YouTube, Pinterest",Between 2 and 3 hours,5,4,1,5,4,5,2,2,2,5,5,2
+464,5/14/22 11:44,13,Male,Single,School Student,School,Yes,"Instagram, YouTube, Discord",Between 4 and 5 hours,3,4,1,3,3,1,1,3,1,3,3,4
+465,5/14/22 11:46,14,Male,Single,School Student,School,Yes,"Instagram, Discord",Between 2 and 3 hours,3,4,2,4,3,2,1,3,1,2,3,1
+466,5/14/22 12:12,13,Male,Single,School Student,School,Yes,"Twitter, Instagram, YouTube, Discord, Pinterest",More than 5 hours,4,4,3,4,2,4,2,3,2,2,3,2
+467,5/14/22 13:40,23,Male,In a relationship,School Student,"University, Private",Yes,"Facebook, Instagram, YouTube, Discord",Between 4 and 5 hours,2,4,2,3,4,4,1,3,1,3,2,3
+468,5/14/22 16:16,18,Male,Single,University Student,University,Yes,"Discord, Reddit",Between 1 and 2 hours,3,3,1,3,2,1,1,2,1,1,2,4
+469,5/14/22 17:33,18,Male,Single,School Student,"School, N/A",Yes,Pinterest,More than 5 hours,2,3,1,3,5,3,5,1,2,5,2,1
+470,5/14/22 17:33,15,Male,Single,School Student,School,Yes,"Instagram, YouTube, Discord, Reddit",Between 4 and 5 hours,1,1,1,3,3,3,3,3,3,1,1,1
+471,5/15/22 2:48,20,Female,Single,University Student,Company,Yes,"Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 1 and 2 hours,2,2,1,3,5,3,5,1,2,5,4,5
+472,5/16/22 20:20,20,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube",More than 5 hours,5,4,2,4,5,3,1,3,2,4,3,4
+473,5/17/22 17:12,35,Female,Married,Salaried Worker,Company,Yes,"Facebook, Instagram, YouTube",Between 1 and 2 hours,3,2,2,3,3,2,1,2,2,2,4,4
+474,5/18/22 2:12,26,Female,Married,University Student,N/A,Yes,"Facebook, YouTube, TikTok",Between 2 and 3 hours,4,4,3,3,4,4,4,5,3,4,3,4
+475,5/21/22 22:19,30,Female,Married,Salaried Worker,University,Yes,"Facebook, Instagram, YouTube",Between 4 and 5 hours,2,4,4,3,4,5,4,2,2,4,2,1
+476,5/21/22 22:33,32,Female,Married,Salaried Worker,Private,Yes,"Facebook, Instagram",Between 3 and 4 hours,5,5,3,5,5,5,5,1,4,5,5,4
+477,5/21/22 23:38,24,Male,Single,Salaried Worker,"University, Private",Yes,"Facebook, Instagram, YouTube",Between 2 and 3 hours,3,4,3,4,3,4,4,2,4,3,4,4
+478,5/22/22 0:01,26,Female,Married,Salaried Worker,University,Yes,"Facebook, YouTube",Between 1 and 2 hours,2,1,2,3,4,4,4,2,4,4,4,1
+479,5/22/22 10:29,29,Female,Married,Salaried Worker,University,Yes,"Facebook, YouTube",Between 2 and 3 hours,3,3,4,3,2,3,3,3,4,2,2,2
+480,7/14/22 19:33,21,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Discord, Pinterest",Between 2 and 3 hours,2,3,2,3,3,2,2,3,4,4,5,4
+481,11/12/22 13:16,53,Male,Married,Salaried Worker,Private,Yes,"Facebook, YouTube",Less than an Hour,2,3,1,3,1,1,3,3,2,2,2,3
