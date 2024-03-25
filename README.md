@@ -33,5 +33,7 @@ Nearly a quarter of all respondents used social media for more than 5 hours per 
 3) Tiktok had the highest scores on the constructs for inattention, validation seeking, and depression
 4) Patterns of inattention were correlated with feelings of depression
 
+Slides can be viewed at https://docs.google.com/presentation/d/1G-HG51zKM3ugVVnhubxjnCwF16Kok5pEE6GyfiCCoFQ/edit?usp=sharing
+
 See analysis in Jupyter Notebook for more details.
 
